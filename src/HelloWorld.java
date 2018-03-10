@@ -9,6 +9,8 @@ public class HelloWorld {
 		//----------------------
 		// new branch
 		System.out.println("new branch!");
+		//--
+		// conflict
 
 	}
 
